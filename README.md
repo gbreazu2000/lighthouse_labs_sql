@@ -1,17 +1,19 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project was to complete the entire process of data importation to data cleaning. The goal was to use the knowledge that I have acuquired in lecture to achieve this.
 
 ## Process
-### (your step 1)
-### (your step 2)
+### The first step was importing the csv file by initially creating a table with identical columns in PostgreSQL.
+### My second step was to use data cleaning principles to remove the duplicates and ensure that there is quality data to analyze.
+### My next step was to explore the data using the functions taught to create tables that answer our business questions
+### The final part of the process was to develop a quality assurance 
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+I did not properly clean the data as I missed some duplications within the dataset, therefore we can assume that all the data results were skewed or wrong.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+I faced many challenges throughout the completion of this project. The two main challenges I faced were the importation process and the data cleaning process since the data was really difficult to understand.
 
 ## Future Goals
-(what would you do if you had more time?)
+If I had more time, I would take a longer time cleaning the data to ensure that my data analysis is more accurate. I would also develop a QA process before I start my data exploration, so I can ensure that the results are accurate.
